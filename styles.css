@@ -1,3 +1,21 @@
 body {
-    background-color: red;
+    background-color: purple;
 }
+
+p {
+    color: red;
+    font-size: 3rem;
+}
+
+.header {
+    background-color: white;
+    display: flex;
+}
+
+#main-header {
+    color: purple;
+    margin-left: auto;
+}
+
+
+
